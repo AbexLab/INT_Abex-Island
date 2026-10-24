@@ -1,6 +1,125 @@
 {
   "releases" : [
     {
+      "build" : 101,
+      "date" : "2026-10-25",
+      "face" : "(✧ω✧)",
+      "label" : "Beta 2",
+      "minimumSystem" : "14.0",
+      "notes" : {
+        "en" : {
+          "better" : [
+            "Telegram and WhatsApp cards wear the island's finish from Settings → Appearance: Dynamic, Liquid or Black",
+            "Glass cards keep a soft shade, so the text stays readable over any wallpaper",
+            "The Liquid card style pours out black and settles into glass once it opens"
+          ],
+          "fixed" : [
+            "On a second display the island now sits right at the top centre, where a real notch would be",
+            "Yandex Music stays in the island when you close its window and the music plays on in the background",
+            "A paused track in Yandex Music no longer pretends to be playing",
+            "Play, Pause and skipping in Yandex Music answer at once, also with its window closed",
+            "Switching tracks is smooth now: no empty card in between, and every track wears its own cover",
+            "Telegram messages no longer slip by when Telegram takes its notification back too quickly"
+          ],
+          "intro" : "Message cards got dressed up: they now come out of the notch in the same glass as the island.",
+          "name" : "Through the Glass",
+          "new" : [
+            "A switch in Settings tucks the island away on displays without a notch, so it never covers browser tabs: push the pointer against the top edge and it slides out"
+          ],
+          "outro" : "Thank you for testing with us: every report makes the island a little better."
+        },
+        "kk" : {
+          "better" : [
+            "Telegram мен WhatsApp карточкалары Баптаулар → Безендіру бөліміндегі арал әрлеуін алады: Динамикалық, Сұйық немесе Қара",
+            "Шыны карточкалардың жеңіл көлеңкесі бар, сондықтан мәтін кез келген түсқағазда оқылады",
+            "«Сұйық» стиліндегі карточка қара болып ағып шығады да, ашылғанда шыныға айналады"
+          ],
+          "fixed" : [
+            "Екінші мониторда арал енді дәл жоғарғы ортада, нағыз ойық болатын жерде тұрады",
+            "Яндекс Музыка терезесін жапсаңыз да, музыка фонда ойнап тұрғанда аралда қалады",
+            "Яндекс Музыкадағы кідіртілген трек енді ойнап тұрғандай көрінбейді",
+            "Яндекс Музыкадағы Ойнату, Кідірту және трек ауыстыру бірден істейді, терезесі жабық болса да",
+            "Тректер енді біркелкі ауысады: ортада бос карточка жоқ, әр тректің өз мұқабасы бар",
+            "Telegram хабарландыруын тым тез алып тастаса да, хабарлар енді өтіп кетпейді"
+          ],
+          "intro" : "Хабар карточкалары сәнденді: енді олар ойықтан аралмен бірдей шыныда шығады.",
+          "name" : "Шыны арқылы",
+          "new" : [
+            "Баптаулардағы жаңа қосқыш ойығы жоқ экрандарда аралды жасырады, ол браузер қойындыларын жаппайды: меңзерді жоғарғы шетке тіресеңіз, ол шығады"
+          ],
+          "outro" : "Бізбен бірге сынағаныңызға рахмет: әр пікір аралды сәл жақсартады."
+        },
+        "ru" : {
+          "better" : [
+            "Карточки Telegram и WhatsApp берут отделку острова из Настройки → Оформление: Динамическое стекло, Жидкое стекло или Чёрный",
+            "У стеклянных карточек лёгкое затемнение, поэтому текст читается на любых обоях",
+            "Карточка в стиле «Вытекает как жидкость» выходит тёмной, а раскрывшись, становится стеклянной"
+          ],
+          "fixed" : [
+            "На втором мониторе остров теперь стоит ровно по центру сверху, там, где была бы настоящая чёлка",
+            "Яндекс Музыка остаётся на острове, даже если закрыть её окно, а музыка играет в фоне",
+            "Трек на паузе в Яндекс Музыке больше не притворяется играющим",
+            "«Играть», «Пауза» и переключение треков в Яндекс Музыке срабатывают сразу, даже с закрытым окном",
+            "Треки переключаются плавно: никакой пустой плашки посередине, и у каждого трека своя обложка",
+            "Сообщения из Telegram больше не проскакивают мимо, когда Telegram слишком быстро убирает своё уведомление"
+          ],
+          "intro" : "Карточки сообщений принарядились: теперь они выплывают из чёлки в том же стекле, что и остров.",
+          "name" : "Сквозь стекло",
+          "new" : [
+            "Новый переключатель в Настройках прячет остров на экранах без чёлки, чтобы он не закрывал вкладки браузера: упритесь курсором в верхний край, и он выедет"
+          ],
+          "outro" : "Спасибо, что тестируете вместе с нами: каждый отзыв делает остров чуточку лучше."
+        },
+        "tr" : {
+          "better" : [
+            "Telegram ve WhatsApp kartları, Ayarlar → Görünüm’deki ada kaplamasını kullanır: Dinamik, Sıvı ya da Siyah",
+            "Cam kartlarda hafif bir gölge var, böylece yazı her duvar kâğıdında okunur",
+            "Sıvı kart stili siyah akarak çıkar ve açılınca cama dönüşür"
+          ],
+          "fixed" : [
+            "İkinci ekranda ada artık tam üst ortada, gerçek bir çentiğin olacağı yerde duruyor",
+            "Yandex Müzik penceresini kapatsanız da, müzik arka planda çalarken adada kalır",
+            "Yandex Müzik’te duraklatılmış parça artık çalıyormuş gibi davranmıyor",
+            "Yandex Müzik’te Oynat, Duraklat ve parça geçişi anında çalışır, penceresi kapalıyken bile",
+            "Parçalar artık akıcı geçiyor: arada boş kart yok ve her parça kendi kapağıyla geliyor",
+            "Telegram bildirimini çok hızlı geri aldığında mesajlar artık gözden kaçmıyor"
+          ],
+          "intro" : "Mesaj kartları süslendi: artık çentikten adayla aynı camla çıkıyorlar.",
+          "name" : "Camın Ardından",
+          "new" : [
+            "Ayarlar’daki yeni bir anahtar, çentiksiz ekranlarda adayı gizler, böylece tarayıcı sekmelerini kapatmaz: imleci üst kenara dayayın, ada kayarak çıksın"
+          ],
+          "outro" : "Bizimle test ettiğiniz için teşekkürler: her geri bildirim adayı biraz daha iyi yapıyor."
+        },
+        "uz" : {
+          "better" : [
+            "Telegram va WhatsApp kartochkalari Sozlamalar → Ko‘rinish’dagi orol pardozini oladi: Dinamik, Suyuq yoki Qora",
+            "Shisha kartochkalarda yengil soya bor, shuning uchun matn har qanday fonda o‘qiladi",
+            "«Suyuq» uslubidagi kartochka qora bo‘lib oqib chiqadi va ochilgach shishaga aylanadi"
+          ],
+          "fixed" : [
+            "Ikkinchi monitorda orol endi aynan yuqori markazda, haqiqiy chet bo‘ladigan joyda turadi",
+            "Yandex Musiqa oynasini yopsangiz ham, musiqa fonda chalayotganda orolda qoladi",
+            "Yandex Musiqada pauzadagi trek endi chalayotgandek ko‘rinmaydi",
+            "Yandex Musiqada Play, Pause va trek almashtirish darhol ishlaydi, oynasi yopiq bo‘lsa ham",
+            "Treklar endi silliq almashadi: o‘rtada bo‘sh kartochka yo‘q, har bir trekning o‘z muqovasi bor",
+            "Telegram bildirishnomasini juda tez olib tashlaganda ham xabarlar endi o‘tib ketmaydi"
+          ],
+          "intro" : "Xabar kartochkalari yasandi: endi ular chetdan orol bilan bir xil shishada chiqadi.",
+          "name" : "Shisha orqali",
+          "new" : [
+            "Sozlamalardagi yangi kalit chetsiz ekranlarda orolni yashiradi, u brauzer vkladkalarini yopmaydi: kursorni yuqori chetga tiring, u chiqib keladi"
+          ],
+          "outro" : "Biz bilan sinab ko‘rayotganingiz uchun rahmat: har bir fikr orolni biroz yaxshiroq qiladi."
+        }
+      },
+      "sha256" : "9391ad2faa239fc335098171f1f17ec267b9f3d0542d75a6ece2478831bd6099",
+      "signature" : "f2TYCcbBYaFfSsMLhAQAk7tZ5PgIsCq59DyjiJ/LXLc5t4pq01njWtX31W76yTYp6VfFxc2J0XVxykFGd1LSAA==",
+      "size" : 4459551,
+      "url" : "https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.2/Abex-Island-1.0.0-beta.2.zip",
+      "version" : "1.0.0"
+    },
+    {
       "build" : 100,
       "date" : "2026-10-25",
       "face" : "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
