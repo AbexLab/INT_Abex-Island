@@ -1,6 +1,95 @@
 {
   "releases" : [
     {
+      "build" : 102,
+      "date" : "2026-10-25",
+      "face" : "(｡•̀ᴗ-)✧",
+      "label" : "Beta 3",
+      "minimumSystem" : "14.0",
+      "notes" : {
+        "en" : {
+          "better" : [
+            "A tucked island leaves a thin strip in sight, so you always know where it is"
+          ],
+          "fixed" : [
+            "Updates find where the app really is, and ask macOS for an administrator's password when its folder is locked",
+            "In Yandex Music the title, artist and cover of a new track change together, never mixed with the last one"
+          ],
+          "intro" : "A small, caring update: Abex Island settles into Applications and updates itself without fuss.",
+          "name" : "Moving In",
+          "new" : [
+            "Opened from Downloads, Abex Island offers to move into Applications, where it updates itself and keeps its permissions"
+          ],
+          "outro" : "Thank you for testing with us: every report makes the island a little better."
+        },
+        "kk" : {
+          "better" : [
+            "Жасырылған арал жіңішке жолақ қалдырады, сондықтан оның қайда екенін әрдайым білесіз"
+          ],
+          "fixed" : [
+            "Жаңарту қолданбаның шын мәнінде қайда екенін табады және қалта жабық болса, macOS-тан әкімші құпиясөзін сұрайды",
+            "Яндекс Музыкада жаңа тректің атауы, орындаушысы мен мұқабасы бірге ауысады, алдыңғысымен шатаспайды"
+          ],
+          "intro" : "Шағын, қамқор жаңарту: Abex Island «Бағдарламаларға» орнығып, әуресіз жаңарады.",
+          "name" : "Жаңа үйге",
+          "new" : [
+            "«Жүктеулерден» ашылса, Abex Island «Бағдарламаларға» көшуді ұсынады, сонда ол өзі жаңарады және рұқсаттарын сақтайды"
+          ],
+          "outro" : "Бізбен бірге сынағаныңызға рахмет: әр пікір аралды сәл жақсартады."
+        },
+        "ru" : {
+          "better" : [
+            "Спрятанный остров оставляет тонкую полоску, чтобы всегда было видно, где он"
+          ],
+          "fixed" : [
+            "Обновление находит, где приложение лежит на самом деле, и просит у macOS пароль администратора, если папка закрыта",
+            "В Яндекс Музыке название, исполнитель и обложка нового трека меняются вместе и больше не путаются с прошлым"
+          ],
+          "intro" : "Небольшое заботливое обновление: Abex Island обживается в «Программах» и обновляется без хлопот.",
+          "name" : "Новоселье",
+          "new" : [
+            "Если открыть Abex Island из «Загрузок», оно предложит переехать в «Программы», где обновляется само и сохраняет разрешения"
+          ],
+          "outro" : "Спасибо, что тестируете вместе с нами: каждый отзыв делает остров чуточку лучше."
+        },
+        "tr" : {
+          "better" : [
+            "Saklanan ada ince bir şerit bırakır, böylece nerede olduğunu hep bilirsiniz"
+          ],
+          "fixed" : [
+            "Güncelleme, uygulamanın gerçekte nerede olduğunu bulur ve klasörü kilitliyse macOS’tan yönetici parolası ister",
+            "Yandex Müzik’te yeni parçanın adı, sanatçısı ve kapağı birlikte değişir, öncekiyle karışmaz"
+          ],
+          "intro" : "Küçük ve özenli bir güncelleme: Abex Island Uygulamalar’a yerleşiyor ve dertsizce kendini güncelliyor.",
+          "name" : "Taşınma Günü",
+          "new" : [
+            "İndirilenler’den açıldığında Abex Island, kendini güncelleyip izinlerini koruyacağı Uygulamalar’a taşınmayı önerir"
+          ],
+          "outro" : "Bizimle test ettiğiniz için teşekkürler: her geri bildirim adayı biraz daha iyi yapıyor."
+        },
+        "uz" : {
+          "better" : [
+            "Yashirilgan orol ingichka chiziq qoldiradi, shunda u qayerdaligini doim bilasiz"
+          ],
+          "fixed" : [
+            "Yangilanish ilova aslida qayerdaligini topadi va jild yopiq bo‘lsa, macOS’dan administrator parolini so‘raydi",
+            "Yandex Musiqada yangi trekning nomi, ijrochisi va muqovasi birga almashadi, oldingisi bilan aralashmaydi"
+          ],
+          "intro" : "Kichik, g‘amxo‘r yangilanish: Abex Island «Dasturlar»ga joylashadi va ortiqcha tashvishsiz yangilanadi.",
+          "name" : "Yangi uyga",
+          "new" : [
+            "«Yuklanmalar»dan ochilganda Abex Island «Dasturlar»ga ko‘chishni taklif qiladi, u yerda o‘zi yangilanadi va ruxsatlarini saqlaydi"
+          ],
+          "outro" : "Biz bilan sinab ko‘rayotganingiz uchun rahmat: har bir fikr orolni biroz yaxshiroq qiladi."
+        }
+      },
+      "sha256" : "46498eb3864528d2d93741baaeeb13d3f7e66625dd1db82ab11a8bc3d0c5f8f2",
+      "signature" : "8en18bsapdotkSv/9wKcIUThX6BlHNtxbAVUB5Rd4j7HYXxNzZ5IdemtPCqcc3HJB3T7xBXeW1P2Bbw2c93ADg==",
+      "size" : 4511037,
+      "url" : "https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3.zip",
+      "version" : "1.0.0"
+    },
+    {
       "build" : 101,
       "date" : "2026-10-25",
       "face" : "(✧ω✧)",
