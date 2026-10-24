@@ -1,0 +1,121 @@
+{
+  "releases" : [
+    {
+      "build" : 100,
+      "date" : "2026-10-25",
+      "face" : "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
+      "label" : "Beta 1",
+      "minimumSystem" : "14.0",
+      "notes" : {
+        "en" : {
+          "better" : [
+            "Settings in the new macOS style, with glass switches and menus"
+          ],
+          "fixed" : [
+            "Everything we found before the beta (and we found a lot)"
+          ],
+          "intro" : "Hi! This is the very first public test of Abex Island. Thank you for coming this early: every bug you find makes it better.",
+          "name" : "First Drop",
+          "new" : [
+            "The island in the notch: files, music, widgets and messages in one place",
+            "A file tray, and a floating basket that appears when you shake the pointer while dragging",
+            "Music from Apple Music, Spotify and Yandex Music, with covers, progress and lyrics",
+            "Telegram and WhatsApp messages come out of the notch as cards, and you answer right there",
+            "People: favourites, live chats with ticks and online status, voice messages, templates and sending later",
+            "Clipboard history, a focus timer, weather, calendar and more widgets",
+            "Updates arrive by themselves: one click and you have the new version"
+          ],
+          "outro" : "Something odd? Tell us, we read everything."
+        },
+        "kk" : {
+          "better" : [
+            "Жаңа macOS стиліндегі баптаулар: шыны ауыстырғыштар мен мәзірлер"
+          ],
+          "fixed" : [
+            "Бетаға дейін тапқанымыздың бәрі (ал біз көп таптық)"
+          ],
+          "intro" : "Сәлем! Бұл Abex Island-дің ең алғашқы ашық сынағы. Осыншалық ерте келгеніңізге рахмет: сіз тапқан әр қате оны жақсарта түседі.",
+          "name" : "Алғашқы тамшы",
+          "new" : [
+            "Ойықтағы арал: файлдар, музыка, виджеттер мен хабарлар бір жерде",
+            "Файл сөресі және сүйреп келе жатып курсорды шайқасаңыз пайда болатын қалқымалы себет",
+            "Apple Music, Spotify және Яндекс Музыкадан музыка: мұқабалар, барыс және ән мәтіндерімен",
+            "Telegram мен WhatsApp хабарлары ойықтан карточка болып шығады, жауапты сол жерде жазасыз",
+            "Адамдар: таңдаулылар, белгілер мен желі күйі бар тірі чаттар, дауыстық хабарлар, үлгілер және кейінірек жіберу",
+            "Алмасу буферінің тарихы, назар таймері, ауа райы, күнтізбе және басқа виджеттер",
+            "Жаңартулар өзі келеді: бір басу — және сізде жаңа нұсқа"
+          ],
+          "outro" : "Бір оғаш нәрсе ме? Бізге жазыңыз, біз бәрін оқимыз."
+        },
+        "ru" : {
+          "better" : [
+            "Настройки в новом стиле macOS — со стеклянными переключателями и меню"
+          ],
+          "fixed" : [
+            "Всё, что мы нашли до беты (а нашли мы немало)"
+          ],
+          "intro" : "Привет! Это самый первый публичный тест Abex Island. Спасибо, что пришли так рано: каждая найденная вами ошибка делает его лучше.",
+          "name" : "Первая капля",
+          "new" : [
+            "Остров в чёлке: файлы, музыка, виджеты и сообщения в одном месте",
+            "Полка для файлов и плавающая корзина, которая появляется, если потрясти курсором во время перетаскивания",
+            "Музыка из Apple Music, Spotify и Яндекс Музыки с обложками, прогрессом и текстами песен",
+            "Сообщения из Telegram и WhatsApp выплывают из чёлки карточками, и отвечать можно прямо там",
+            "Люди: избранные, живые чаты с галочками и статусом «в сети», голосовые, шаблоны и отправка по расписанию",
+            "История буфера обмена, таймер фокуса, погода, календарь и другие виджеты",
+            "Обновления приходят сами: один клик — и у вас новая версия"
+          ],
+          "outro" : "Что-то странное? Напишите нам, мы читаем всё."
+        },
+        "tr" : {
+          "better" : [
+            "Cam anahtarlar ve menülerle yeni macOS tarzında ayarlar"
+          ],
+          "fixed" : [
+            "Betadan önce bulduğumuz her şey (ve epey bulduk)"
+          ],
+          "intro" : "Merhaba! Bu, Abex Island’nin ilk açık testi. Bu kadar erken geldiğiniz için teşekkürler: bulduğunuz her hata onu daha iyi yapıyor.",
+          "name" : "İlk Damla",
+          "new" : [
+            "Çentikteki ada: dosyalar, müzik, widget’lar ve mesajlar tek yerde",
+            "Dosya rafı ve sürüklerken imleci salladığınızda beliren yüzen sepet",
+            "Apple Music, Spotify ve Yandex Müzik’ten müzik: kapaklar, ilerleme ve şarkı sözleriyle",
+            "Telegram ve WhatsApp mesajları çentikten kart olarak çıkar, yanıtı orada verirsiniz",
+            "Kişiler: favoriler, tik ve çevrimiçi durumuyla canlı sohbetler, sesli mesajlar, şablonlar ve sonra gönderme",
+            "Pano geçmişi, odak zamanlayıcısı, hava durumu, takvim ve daha fazla widget",
+            "Güncellemeler kendiliğinden gelir: tek tık ve yeni sürüm sizde"
+          ],
+          "outro" : "Tuhaf bir şey mi var? Bize yazın, hepsini okuyoruz."
+        },
+        "uz" : {
+          "better" : [
+            "Yangi macOS uslubidagi sozlamalar: shisha tugmalar va menyular bilan"
+          ],
+          "fixed" : [
+            "Betadan oldin topganimiz hammasi (va biz ko‘p topdik)"
+          ],
+          "intro" : "Salom! Bu Abex Island’ning eng birinchi ochiq sinovi. Shunchalik erta kelganingiz uchun rahmat: siz topgan har bir xato uni yaxshiroq qiladi.",
+          "name" : "Birinchi tomchi",
+          "new" : [
+            "Chetdagi orol: fayllar, musiqa, vidjetlar va xabarlar bir joyda",
+            "Fayllar javoni va sudrayotganda kursorni silkitsangiz paydo bo‘ladigan suzuvchi savat",
+            "Apple Music, Spotify va Yandex Musiqa’dan musiqa: muqovalar, jarayon va qo‘shiq matnlari bilan",
+            "Telegram va WhatsApp xabarlari chetdan kartochka bo‘lib chiqadi, javobni shu yerning o‘zida yozasiz",
+            "Odamlar: sevimlilar, belgilar va onlayn holati bilan jonli chatlar, ovozli xabarlar, shablonlar va keyinroq yuborish",
+            "Almashuv buferi tarixi, diqqat taymeri, ob-havo, kalendar va boshqa vidjetlar",
+            "Yangilanishlar o‘zi keladi: bir bosish va sizda yangi versiya"
+          ],
+          "outro" : "G‘alati narsa bormi? Bizga yozing, biz hammasini o‘qiymiz."
+        }
+      },
+      "sha256" : "38911b02f8ce4df9d3dbebe0815f095da1bb38a23eb9fcac28d3ec2959bfc65a",
+      "signature" : "oMcAZp4ohR9A+QvWYVugiMLznKkLZfuMIGFLixbeqpzEvWFPE4xO+yBlkB1LKgG5chEjGKYXJCc0HVbrAk3gDg==",
+      "size" : 4377168,
+      "url" : "https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.1/Abex-Island-1.0.0-beta.1.zip",
+      "version" : "1.0.0"
+    }
+  ],
+  "windows" : {
+    "status" : "in-development"
+  }
+}
