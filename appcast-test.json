@@ -12,11 +12,11 @@
       "notes" : {
 
       },
-      "revision" : 428652,
-      "sha256" : "795d8fe4faeb6ea03b3ec726eeabc5a15b79dd458ad4a8f8702b80c2239de894",
-      "signature" : "7cLKpCz4GMq+K35mdeF11yRl5pVrsPxkKbrtgYKLe78GiFmzE62lwTCsIQw5CrDwwKPRUEyyKbNcBib1NCPVDA==",
-      "size" : 80959977,
-      "url" : "https://github.com/AbexLab/INT_Abex-Island/releases/download/windows-test/Abex-Island-Windows-test-428652.zip",
+      "revision" : 428682,
+      "sha256" : "0875b6d8ec561416ca1ac055d4e665203b6276b2a1e584ebec948ffe1e3fd474",
+      "signature" : "hMa1Tg6KpULY7KGnNzmi5HLOt4qpB53l4E/evgA6Ik6X8w3xbBRzY/+7lEhIH3af9+U/r3nYVGzFxKahIbogAg==",
+      "size" : 82003762,
+      "url" : "https://github.com/AbexLab/INT_Abex-Island/releases/download/windows-test/Abex-Island-Windows-test-428682.zip",
       "version" : "1.0.0"
     }
   ]
