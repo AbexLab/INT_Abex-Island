@@ -4,7 +4,7 @@
 
 **Mac va Windows uchun ekran tepasidagi orol: fayllar, musiqa, vidjetlar va xabarlar bir joyda.**
 
-[**Mac uchun yuklab olish**](https://github.com/AbexLab/INT_Abex-Island_macOS/releases/latest) · [**Windows uchun yuklab olish**](https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip)
+[**Mac uchun yuklab olish**](https://github.com/AbexLab/INT_Abex-Island/releases/latest) · [**Windows uchun yuklab olish**](https://github.com/AbexLab/INT_Abex-Island/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip)
 
 macOS 14+ · Windows 10 (2004+) va 11 · bepul
 
@@ -31,14 +31,14 @@ Yangilanishlar o‘zi keladi: bir bosish va sizda yangi versiya.
 
 ### Mac’ga o‘rnatish
 
-1. [Releases](https://github.com/AbexLab/INT_Abex-Island_macOS/releases/latest) bo‘limidan `.zip` faylni yuklab oling va oching.
+1. [Releases](https://github.com/AbexLab/INT_Abex-Island/releases/latest) bo‘limidan `.zip` faylni yuklab oling va oching.
 2. **Abex Island**’ni «Dasturlar» jildiga ko‘chiring va u yerdan oching.
 3. Birinchi marta ilovani Control bilan bosing va **Ochish**’ni tanlang (yoki Tizim sozlamalari → Maxfiylik va xavfsizlik → **Baribir ochish**).
 4. Ilova kerakli ruxsatlarni o‘zi so‘raydi (Maxsus imkoniyatlar, xabar bildirishnomalari uchun Diskka to‘liq kirish) va har birini tushuntiradi.
 
 ### Windows’ga o‘rnatish
 
-1. [Windows uchun `.zip` faylni yuklab oling](https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip) va undagi **Abex Island.exe**’ni oching.
+1. [Windows uchun `.zip` faylni yuklab oling](https://github.com/AbexLab/INT_Abex-Island/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip) va undagi **Abex Island.exe**’ni oching.
 2. Windows nashriyotchi noma’lum deyishi mumkin: **Batafsil → Baribir ishga tushirish**’ni tanlang.
 3. Xush kelibsiz oynasida **O‘rnatish**’ni bosing: ilova «Ishga tushirish» menyusiga qo‘shiladi, tizimga kirganda ochiladi va o‘zi yangilanadi. Administrator huquqi kerak emas.
 
@@ -46,7 +46,7 @@ Yangilanishlar o‘zi keladi: bir bosish va sizda yangi versiya.
 
 ### Holati
 
-Bu **beta**: nimadir hali buzilishi mumkin va har bir fikr yordam beradi. Xato topdingizmi yoki g‘oyangiz bormi? [Issue](https://github.com/AbexLab/INT_Abex-Island_macOS/issues) oching.
+Bu **beta**: nimadir hali buzilishi mumkin va har bir fikr yordam beradi. Xato topdingizmi yoki g‘oyangiz bormi? [Issue](https://github.com/AbexLab/INT_Abex-Island/issues) oching.
 
 ### Litsenziya
 
