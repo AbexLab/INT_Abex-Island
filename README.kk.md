@@ -4,7 +4,7 @@
 
 **Mac пен Windows-қа арналған экранның жоғарғы жағындағы арал: файлдар, музыка, виджеттер мен хабарлар бір жерде.**
 
-[**Mac үшін жүктеп алу**](https://github.com/AbexLab/INT_Abex-Island_macOS/releases/latest) · [**Windows үшін жүктеп алу**](https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip)
+[**Mac үшін жүктеп алу**](https://github.com/AbexLab/INT_Abex-Island/releases/latest) · [**Windows үшін жүктеп алу**](https://github.com/AbexLab/INT_Abex-Island/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip)
 
 macOS 14+ · Windows 10 (2004+) және 11 · тегін
 
@@ -31,14 +31,14 @@ macOS 14+ · Windows 10 (2004+) және 11 · тегін
 
 ### Mac-қа орнату
 
-1. [Releases](https://github.com/AbexLab/INT_Abex-Island_macOS/releases/latest) бөлімінен `.zip` файлын жүктеп алып, ашыңыз.
+1. [Releases](https://github.com/AbexLab/INT_Abex-Island/releases/latest) бөлімінен `.zip` файлын жүктеп алып, ашыңыз.
 2. **Abex Island**-ды «Бағдарламалар» қалтасына жылжытып, сол жерден ашыңыз.
 3. Алғаш рет қолданбаны Control пернесімен басып, **Ашу** таңдаңыз (немесе Жүйе баптаулары → Құпиялылық және қауіпсіздік → **Бәрібір ашу**).
 4. Қолданба қажетті рұқсаттарды өзі сұрайды (Арнайы мүмкіндіктер, хабар хабарландырулары үшін Дискіге толық қол жеткізу) және әрқайсысын түсіндіреді.
 
 ### Windows-қа орнату
 
-1. [Windows үшін `.zip` файлын жүктеп алыңыз](https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip) және ішіндегі **Abex Island.exe**-ні ашыңыз.
+1. [Windows үшін `.zip` файлын жүктеп алыңыз](https://github.com/AbexLab/INT_Abex-Island/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip) және ішіндегі **Abex Island.exe**-ні ашыңыз.
 2. Windows баспагер белгісіз деуі мүмкін: **Толығырақ → Бәрібір іске қосу** таңдаңыз.
 3. Сәлемдесу терезесінде **Орнату** басыңыз: қолданба «Бастау» мәзіріне қосылады, жүйеге кіргенде ашылады және өзі жаңарады. Әкімші құқығы қажет емес.
 
@@ -46,7 +46,7 @@ macOS 14+ · Windows 10 (2004+) және 11 · тегін
 
 ### Күйі
 
-Бұл **бета**: бірдеңе әлі бұзылуы мүмкін, әр пікір көмектеседі. Қате таптыңыз ба немесе идеяңыз бар ма? [Issue](https://github.com/AbexLab/INT_Abex-Island_macOS/issues) ашыңыз.
+Бұл **бета**: бірдеңе әлі бұзылуы мүмкін, әр пікір көмектеседі. Қате таптыңыз ба немесе идеяңыз бар ма? [Issue](https://github.com/AbexLab/INT_Abex-Island/issues) ашыңыз.
 
 ### Лицензия
 
