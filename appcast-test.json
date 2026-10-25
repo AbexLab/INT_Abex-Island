@@ -1,0 +1,23 @@
+{
+  "releases" : [
+
+  ],
+  "windowsReleases" : [
+    {
+      "build" : 102,
+      "date" : "2026-10-25",
+      "face" : "(｡•̀ᴗ-)✧",
+      "label" : "Beta 3",
+      "minimumSystem" : "10.0.19041",
+      "notes" : {
+
+      },
+      "revision" : 428587,
+      "sha256" : "f4bb02ab77b73d8c5f9c39c4f4e1b378313cd06a6c8b798666347cf1b01e1bea",
+      "signature" : "LW1zDZFLxcrHJjqzm0sfPsNo9mq+pVlr2S68TGaUnx73E5nbpbTT60YT6BQzfCVAlWayk5rPLhD3GgBmYpmXBw==",
+      "size" : 71408675,
+      "url" : "https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/windows-test/Abex-Island-Windows-test-428587.zip",
+      "version" : "1.0.0"
+    }
+  ]
+}
