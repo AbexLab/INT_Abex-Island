@@ -4,7 +4,7 @@
 
 **The island at the top of your screen, for Mac and Windows: files, music, widgets and messages in one place.**
 
-[**Download for Mac**](https://github.com/AbexLab/INT_Abex-Island_macOS/releases/latest) · [**Download for Windows**](https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip)
+[**Download for Mac**](https://github.com/AbexLab/INT_Abex-Island/releases/latest) · [**Download for Windows**](https://github.com/AbexLab/INT_Abex-Island/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip)
 
 macOS 14+ · Windows 10 (2004+) and 11 · free
 
@@ -31,14 +31,14 @@ Updates arrive by themselves: one click and you have the new version.
 
 ### Install on a Mac
 
-1. Download the `.zip` from [Releases](https://github.com/AbexLab/INT_Abex-Island_macOS/releases/latest) and open it.
+1. Download the `.zip` from [Releases](https://github.com/AbexLab/INT_Abex-Island/releases/latest) and open it.
 2. Move **Abex Island** to the Applications folder, and open it from there.
 3. The first time, Control-click the app and choose **Open** (or System Settings → Privacy & Security → **Open Anyway**).
 4. The app asks for the permissions it needs (Accessibility, Full Disk Access for message notifications) and explains each one.
 
 ### Install on Windows
 
-1. [Download the `.zip` for Windows](https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip) and open **Abex Island.exe** from it.
+1. [Download the `.zip` for Windows](https://github.com/AbexLab/INT_Abex-Island/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip) and open **Abex Island.exe** from it.
 2. Windows may say the publisher is unknown: choose **More info → Run anyway**.
 3. Press **Install** in the welcome window: the app goes to the Start menu, opens at sign-in and updates itself. No administrator needed.
 
@@ -46,7 +46,7 @@ Updates arrive by themselves: one click and you have the new version.
 
 ### Status
 
-This is a **beta**: things may still break, and every report helps. Found a bug or have an idea? Open an [issue](https://github.com/AbexLab/INT_Abex-Island_macOS/issues).
+This is a **beta**: things may still break, and every report helps. Found a bug or have an idea? Open an [issue](https://github.com/AbexLab/INT_Abex-Island/issues).
 
 ### Licence
 
