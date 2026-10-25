@@ -86,7 +86,7 @@
       "sha256" : "46498eb3864528d2d93741baaeeb13d3f7e66625dd1db82ab11a8bc3d0c5f8f2",
       "signature" : "8en18bsapdotkSv/9wKcIUThX6BlHNtxbAVUB5Rd4j7HYXxNzZ5IdemtPCqcc3HJB3T7xBXeW1P2Bbw2c93ADg==",
       "size" : 4511037,
-      "url" : "https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3.zip",
+      "url" : "https://github.com/AbexLab/INT_Abex-Island/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3.zip",
       "version" : "1.0.0"
     },
     {
@@ -205,7 +205,7 @@
       "sha256" : "9391ad2faa239fc335098171f1f17ec267b9f3d0542d75a6ece2478831bd6099",
       "signature" : "f2TYCcbBYaFfSsMLhAQAk7tZ5PgIsCq59DyjiJ/LXLc5t4pq01njWtX31W76yTYp6VfFxc2J0XVxykFGd1LSAA==",
       "size" : 4459551,
-      "url" : "https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.2/Abex-Island-1.0.0-beta.2.zip",
+      "url" : "https://github.com/AbexLab/INT_Abex-Island/releases/download/v1.0.0-beta.2/Abex-Island-1.0.0-beta.2.zip",
       "version" : "1.0.0"
     },
     {
@@ -319,13 +319,13 @@
       "sha256" : "38911b02f8ce4df9d3dbebe0815f095da1bb38a23eb9fcac28d3ec2959bfc65a",
       "signature" : "oMcAZp4ohR9A+QvWYVugiMLznKkLZfuMIGFLixbeqpzEvWFPE4xO+yBlkB1LKgG5chEjGKYXJCc0HVbrAk3gDg==",
       "size" : 4377168,
-      "url" : "https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.1/Abex-Island-1.0.0-beta.1.zip",
+      "url" : "https://github.com/AbexLab/INT_Abex-Island/releases/download/v1.0.0-beta.1/Abex-Island-1.0.0-beta.1.zip",
       "version" : "1.0.0"
     }
   ],
   "windows" : {
     "status" : "available",
-    "url" : "https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip",
+    "url" : "https://github.com/AbexLab/INT_Abex-Island/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip",
     "version" : "1.0.0 Beta 3"
   },
   "windowsReleases" : [
@@ -425,7 +425,7 @@
       "sha256" : "119ccf3b72339383c7c3287feb2a63dcd52f5634b67f5033ec934cf611a4bfd5",
       "signature" : "tm2EVCSU4SrRmiiq3f3PzyfKBLN4fUgKDSCLBv/ASbeGCY2zE9KSLEjA8O9C01vt59Yxt6k0SUgPyZL9xWUlAA==",
       "size" : 71408707,
-      "url" : "https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip",
+      "url" : "https://github.com/AbexLab/INT_Abex-Island/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip",
       "version" : "1.0.0"
     }
   ]
