@@ -4,7 +4,7 @@
 
 **Остров вверху экрана для Mac и Windows: файлы, музыка, виджеты и сообщения в одном месте.**
 
-[**Скачать для Mac**](https://github.com/AbexLab/INT_Abex-Island_macOS/releases/latest) · [**Скачать для Windows**](https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip)
+[**Скачать для Mac**](https://github.com/AbexLab/INT_Abex-Island/releases/latest) · [**Скачать для Windows**](https://github.com/AbexLab/INT_Abex-Island/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip)
 
 macOS 14+ · Windows 10 (2004+) и 11 · бесплатно
 
@@ -31,14 +31,14 @@ macOS 14+ · Windows 10 (2004+) и 11 · бесплатно
 
 ### Установка на Mac
 
-1. Скачайте `.zip` в разделе [Releases](https://github.com/AbexLab/INT_Abex-Island_macOS/releases/latest) и откройте его.
+1. Скачайте `.zip` в разделе [Releases](https://github.com/AbexLab/INT_Abex-Island/releases/latest) и откройте его.
 2. Перенесите **Abex Island** в папку «Программы» и открывайте оттуда.
 3. В первый раз нажмите на приложение с Control и выберите **Открыть** (или Системные настройки → Конфиденциальность и безопасность → **Всё равно открыть**).
 4. Приложение само попросит нужные разрешения (Универсальный доступ, Полный доступ к диску для уведомлений о сообщениях) и объяснит каждое.
 
 ### Установка на Windows
 
-1. [Скачайте `.zip` для Windows](https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip) и откройте из него **Abex Island.exe**.
+1. [Скачайте `.zip` для Windows](https://github.com/AbexLab/INT_Abex-Island/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip) и откройте из него **Abex Island.exe**.
 2. Windows может сказать, что издатель неизвестен: нажмите **Подробнее → Выполнить в любом случае**.
 3. Нажмите **Установить** в окне приветствия: приложение появится в меню «Пуск», будет открываться при входе и обновляться само. Права администратора не нужны.
 
@@ -46,7 +46,7 @@ macOS 14+ · Windows 10 (2004+) и 11 · бесплатно
 
 ### Статус
 
-Это **бета**: что-то ещё может сломаться, и каждый отзыв помогает. Нашли ошибку или есть идея? Создайте [issue](https://github.com/AbexLab/INT_Abex-Island_macOS/issues).
+Это **бета**: что-то ещё может сломаться, и каждый отзыв помогает. Нашли ошибку или есть идея? Создайте [issue](https://github.com/AbexLab/INT_Abex-Island/issues).
 
 ### Лицензия
 
