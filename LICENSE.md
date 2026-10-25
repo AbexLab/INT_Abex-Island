@@ -23,8 +23,12 @@ including as part of other Abex products or paid plans.
 **4. Updates and changes.** Abex may update, change, suspend or stop the Software, or these terms,
 at any time. Continuing to use the Software after a change means you accept the new terms.
 
-**5. Your data.** The Software works on your Mac. It reads what it needs to show (such as notifications,
-music and files you drop on it) locally, and does not send your messages or files to Abex.
+**5. Your data.** The Software works on your computer. It reads what it needs to show (such as notifications,
+music and files you drop on it) locally, and does not send your messages, files or clipboard to Abex.
+Unless you switch it off (Settings → About), once a day it sends Abex anonymous usage statistics: a random
+identifier made on your computer, the app and system version, the language, the country of the connection
+(no address is kept), and how often its features are used. They cannot tell who you are and are used only
+to make the Software better.
 
 **6. No warranty.** The Software is provided "as is", without warranty of any kind. To the extent the
 law allows, Abex is not liable for any damages arising from its use. This is a beta version.
