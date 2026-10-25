@@ -36,4 +36,4 @@ law allows, Abex is not liable for any damages arising from its use. This is a b
 **7. Ending.** This licence ends automatically if you break its terms; you must then stop using the
 Software and delete it.
 
-Questions or permission requests: open an issue at https://github.com/AbexLab/INT_Abex-Island_macOS/issues.
+Questions or permission requests: open an issue at https://github.com/AbexLab/INT_Abex-Island/issues.
