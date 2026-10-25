@@ -324,6 +324,109 @@
     }
   ],
   "windows" : {
-    "status" : "in-development"
-  }
+    "status" : "available",
+    "url" : "https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip",
+    "version" : "1.0.0 Beta 3"
+  },
+  "windowsReleases" : [
+    {
+      "build" : 102,
+      "date" : "2026-10-25",
+      "face" : "(｀・ω・´)ゞ",
+      "label" : "Beta 3",
+      "minimumSystem" : "10.0.19041",
+      "notes" : {
+        "en" : {
+          "intro" : "Abex Island comes to Windows: the same island at the top of the screen, with files, music and widgets, in Windows glass.",
+          "name" : "Hello, Windows",
+          "new" : [
+            "The island at the top of the screen: point at it to open, and it tucks into a thin strip when nothing is going on",
+            "A file tray: drop files on the island and drag them out again into any app or folder",
+            "Music from Spotify, Yandex Music, browsers and any player in the Windows media controls, with covers, progress and buttons",
+            "A focus timer, weather, battery, clock, Stay Awake and system stats as widgets",
+            "Clipboard history with search and pins, on Alt+Shift+V",
+            "Synced lyrics under the player, from LRCLIB",
+            "A floating tray: shake the pointer while dragging files and it appears right there",
+            "Your Google or Outlook calendar by its iCal link, with a reminder and Join five minutes before a meeting",
+            "Dynamic, Glass and Black finishes, in Windows' own Acrylic glass",
+            "Five languages, and updates that arrive together with the Mac version"
+          ],
+          "outro" : "This is the first Windows beta. Something odd? Tell us, we read everything."
+        },
+        "kk" : {
+          "intro" : "Abex Island Windows-қа келді: экранның жоғарғы жағындағы сол арал — файлдармен, музыкамен және виджеттермен, Windows шынысында.",
+          "name" : "Сәлем, Windows",
+          "new" : [
+            "Экранның жоғарғы жағындағы арал: ашу үшін меңзерді апарыңыз, ештеңе болмағанда ол жұқа жолаққа жасырынады",
+            "Файл науасы: файлдарды аралға тастап, кез келген қолданбаға не қалтаға қайта сүйреңіз",
+            "Spotify, Яндекс Музыка, браузерлер және Windows медиа басқаруындағы кез келген ойнатқыштан музыка — мұқаба, барыс және батырмалармен",
+            "Фокус таймері, ауа райы, батарея, сағат, «Ұйықтамау» және жүйе жүктемесі — виджеттер ретінде",
+            "Іздеу мен бекітуі бар алмасу буферінің тарихы, Alt+Shift+V арқылы",
+            "Ойнатқыштың астында синхронды ән мәтіндері, LRCLIB-тен",
+            "Қалқымалы науа: файлдарды сүйреп бара жатып меңзерді сілкіңіз, ол дәл сол жерде пайда болады",
+            "Google немесе Outlook күнтізбесі iCal сілтемесі арқылы — кездесуге бес минут қалғанда еске салу және «Қосылу» батырмасымен",
+            "Динамикалық, Шыны және Қара безендірулер — Windows-тың өз Acrylic шынысында",
+            "Бес тіл және Mac нұсқасымен бірге келетін жаңартулар"
+          ],
+          "outro" : "Бұл Windows үшін алғашқы бета. Бірдеңе дұрыс емес пе? Бізге жазыңыз, бәрін оқимыз."
+        },
+        "ru" : {
+          "intro" : "Abex Island приходит на Windows: тот же остров вверху экрана — с файлами, музыкой и виджетами, в стекле Windows.",
+          "name" : "Привет, Windows",
+          "new" : [
+            "Остров вверху экрана: наведите, чтобы открыть, а когда ничего не происходит, он прячется в тонкую полоску",
+            "Лоток файлов: бросайте файлы на остров и перетаскивайте обратно в любое приложение или папку",
+            "Музыка из Spotify, Яндекс Музыки, браузеров и любого плеера в медиа-панели Windows — с обложками, прогрессом и кнопками",
+            "Таймер фокуса, погода, батарея, часы, «Не спать» и нагрузка системы — виджетами",
+            "История буфера обмена с поиском и закреплением, по Alt+Shift+V",
+            "Синхронные тексты песен под плеером, из LRCLIB",
+            "Плавающий лоток: потрясите курсором, перетаскивая файлы, и он появится прямо там",
+            "Календарь Google или Outlook по ссылке iCal — с напоминанием и кнопкой «Подключиться» за пять минут до встречи",
+            "Отделки «Динамика», «Стекло» и «Чёрный» — в собственном стекле Windows (Acrylic)",
+            "Пять языков и обновления, которые приходят вместе с версией для Mac"
+          ],
+          "outro" : "Это первая бета для Windows. Что-то не так? Напишите нам, мы читаем всё."
+        },
+        "tr" : {
+          "intro" : "Abex Island Windows’a geldi: ekranın üstündeki aynı ada; dosyalar, müzik ve widget’larla, Windows camında.",
+          "name" : "Merhaba, Windows",
+          "new" : [
+            "Ekranın üstündeki ada: açmak için imleci getirin; bir şey olmadığında ince bir şeride çekilir",
+            "Dosya tepsisi: dosyaları adaya bırakın, sonra herhangi bir uygulamaya veya klasöre geri sürükleyin",
+            "Spotify, Yandex Müzik, tarayıcılar ve Windows medya denetimlerindeki her oynatıcıdan müzik; kapak, ilerleme ve düğmelerle",
+            "Odak zamanlayıcısı, hava durumu, pil, saat, Uyanık Kal ve sistem yükü widget olarak",
+            "Arama ve sabitlemeli pano geçmişi, Alt+Shift+V ile",
+            "Oynatıcının altında LRCLIB'den senkronize şarkı sözleri",
+            "Yüzen tepsi: dosya sürüklerken imleci sallayın, tam orada belirsin",
+            "iCal bağlantısıyla Google veya Outlook takviminiz; toplantıdan beş dakika önce hatırlatma ve Katıl düğmesiyle",
+            "Dinamik, Cam ve Siyah görünümler, Windows’un kendi Acrylic camında",
+            "Beş dil ve Mac sürümüyle birlikte gelen güncellemeler"
+          ],
+          "outro" : "Bu ilk Windows betası. Tuhaf bir şey mi var? Bize yazın, her şeyi okuyoruz."
+        },
+        "uz" : {
+          "intro" : "Abex Island Windowsga keldi: ekran tepasidagi o‘sha orol — fayllar, musiqa va vidjetlar bilan, Windows shishasida.",
+          "name" : "Salom, Windows",
+          "new" : [
+            "Ekran tepasidagi orol: ochish uchun kursorni olib boring, hech narsa bo‘lmaganda u ingichka chiziqqa yashirinadi",
+            "Fayl tovog‘i: fayllarni orolga tashlang va istalgan ilova yoki jildga qayta sudrang",
+            "Spotify, Yandex Musiqa, brauzerlar va Windows media boshqaruvidagi istalgan pleerdan musiqa — muqova, jarayon va tugmalar bilan",
+            "Fokus taymeri, ob-havo, batareya, soat, «Uxlamaslik» va tizim yuklamasi — vidjetlar sifatida",
+            "Qidiruv va qadash bilan bufer tarixi, Alt+Shift+V orqali",
+            "Pleer ostida sinxron qo‘shiq matnlari, LRCLIB’dan",
+            "Suzuvchi tovoq: fayllarni sudrayotganda kursorni silkiting va u shu yerda paydo bo‘ladi",
+            "Google yoki Outlook taqvimi iCal havolasi orqali — uchrashuvdan besh daqiqa oldin eslatma va «Qo‘shilish» tugmasi bilan",
+            "Dinamik, Shisha va Qora ko‘rinishlar — Windowsning o‘z Acrylic shishasida",
+            "Besh til va Mac versiyasi bilan birga keladigan yangilanishlar"
+          ],
+          "outro" : "Bu Windows uchun birinchi beta. Nimadir g‘alatimi? Bizga yozing, hammasini o‘qiymiz."
+        }
+      },
+      "sha256" : "119ccf3b72339383c7c3287feb2a63dcd52f5634b67f5033ec934cf611a4bfd5",
+      "signature" : "tm2EVCSU4SrRmiiq3f3PzyfKBLN4fUgKDSCLBv/ASbeGCY2zE9KSLEjA8O9C01vt59Yxt6k0SUgPyZL9xWUlAA==",
+      "size" : 71408707,
+      "url" : "https://github.com/AbexLab/INT_Abex-Island_macOS/releases/download/v1.0.0-beta.3/Abex-Island-1.0.0-beta.3-Windows.zip",
+      "version" : "1.0.0"
+    }
+  ]
 }
